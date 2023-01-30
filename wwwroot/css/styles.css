@@ -1,0 +1,7 @@
+﻿.mainImg {
+    width: 100%;
+    height: 500px;
+    background-image: url("../img/fishin.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
